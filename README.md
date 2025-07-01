@@ -2,14 +2,11 @@
 <h3 align="center">Full Stack Developer | PHP, Laravel, MySQL | Node.js, React | CI/CD & Deployment Expert</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="linkedin.com/in/kashif-khan-backend-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kashifbolen456@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" />
-  </a>
-  <a href="https://facebook.com/yourfacebook" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=flat" />
   </a>
 </p>
 
@@ -22,7 +19,7 @@ I'm a full stack developer with strong **PHP + MySQL** backend expertise, buildi
 - 🌱 Learning: **GraphQL, DevOps with Docker & GitHub Actions**
 - 👯 Open to collaborate on: **Web apps, APIs, and backend systems**
 - 💬 Ask me about: **PHP backend development, Laravel architecture, SQL optimization**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kashifbolen456@gmail.com**
 - ⚡ Fun fact: I love automating deployments almost as much as writing backend logic!
 
 ---
