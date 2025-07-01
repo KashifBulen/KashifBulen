@@ -44,18 +44,21 @@ I'm a full stack developer with strong **PHP + MySQL** backend expertise, buildi
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KashifBulen&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
+    <td align="center" valign="top">
+      <h4>KashifBulen's GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=KashifBulen&show_icons=true&theme=default" width="400" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifBulen&layout=compact&theme=default" alt="Top Languages" width="300"/>
+    <td align="center" valign="top">
+      <h4>Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifBulen&layout=compact&theme=default" width="300" />
     </td>
   </tr>
 </table>
+
 
 
 
