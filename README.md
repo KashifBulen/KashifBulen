@@ -50,11 +50,11 @@ I'm a full stack developer with strong **PHP + MySQL** backend expertise, buildi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KashifBulen&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifBulen&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
