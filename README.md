@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | PHP, Laravel, MySQL | Node.js, React | CI/CD & Deployment Expert</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/kashif-khan-backend-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/kashif-khan-backend-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
   <a href="mailto:kashifbolen456@gmail.com">
