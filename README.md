@@ -49,13 +49,14 @@ I'm a full stack developer with strong **PHP + MySQL** backend expertise, buildi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KashifBulen&show_icons=true&theme=default" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KashifBulen&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifBulen&layout=compact&theme=default" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifBulen&layout=compact&theme=default" alt="Top Languages" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
